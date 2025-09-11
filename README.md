@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi 👋, I'm Awais Maqbool
+A passionate **Computer Science student** and **Web Developer | MERN Stack Enthusiast **
+Interested in **clean design & user-friendly apps**
+## 🔧 Tech Stack  
+- **Frontend:** HTML, CSS, JavaScript  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB  
+- **Tools:** Git, GitHub, VS Code
 
-<!--
-**awaismaqbool-dev/awaismaqbool-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- ## 📊 GitHub Stats  
+![Awais's GitHub stats](https://github-readme-stats.vercel.app/api?username=awaismaqbool-dev&show_icons=true&theme=tokyonight)  
+ 
