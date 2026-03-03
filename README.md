@@ -28,7 +28,7 @@
         <h2 align="center">Finear-Personal-Finance-Dashboard </h2>
         <br />
         <a target="_blank" href="https://finear-finance-expense-tracker.vercel.app/">
-            <img src="https://github.com/dev-awais-maqbool/Finear-Personal-Finance-Dashboard/blob/main/ScreenShorts/dashbaord.png?raw=true" width="100%" alt="GYM app"/>
+            <img src="https://raw.githubusercontent.com/awaismaqbool-dev/Finear-Finance-Expense-Tracker/refs/heads/main/ScreenShorts/dashbaord.png" width="100%" alt="GYM app"/>
         </a>
         <br />
         <p align="center">
